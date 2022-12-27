@@ -1,7 +1,7 @@
 {
+  "homepage": "http://jtitak06.github.io/travel-journal",
   "name": "travel-journal",
   "version": "0.1.0",
-  "homepage": "https://jtitak06.github.io/travel-journal",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
